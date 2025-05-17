@@ -2,3 +2,4 @@ streamlit
 pandas
 lancedb
 sentence-transformers
+pytest
